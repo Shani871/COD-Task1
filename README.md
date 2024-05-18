@@ -2,11 +2,11 @@
   <br>
 * id: ICOD7370
   <br>
-* Domain: java Programming
+* Domain: Java Programming
   <br>
 * Duration : 25th April  to 25th may 2024
   <br>
-* Mentor : Sarvani gouni
+* Mentor : Sravani gouni
 <br>
 
 # Description
